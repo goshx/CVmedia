@@ -1,4 +1,4 @@
 CVmedia
 =======
 
-(windows) a very simple approach to capture picture, video and audio using Qt
+A very simple approach to capture picture, video and audio using Qt
